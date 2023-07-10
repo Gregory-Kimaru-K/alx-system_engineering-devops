@@ -1,0 +1,1 @@
+ls -p -a | sort -k,1 -g | tr '\n' ',' ; echo
